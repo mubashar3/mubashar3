@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mubashar</h1>
+<h3 align="center">I'm a Web Developer.</h3>
 
-<!--
-**mubashar3/mubashar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senpaix69&label=Profile%20views&color=0e75b6&style=flat" alt="senpaix69" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **React.js**
+
+- 📫 How to reach me **mubashar700730@gmail.com**
+
+- ⚡ Fun fact **I love Cricket**
